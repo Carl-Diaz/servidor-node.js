@@ -1,0 +1,14 @@
+{
+  "name": "laboratorio-servidor",
+  "version": "1.0.0",
+  "description": "Servido.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
